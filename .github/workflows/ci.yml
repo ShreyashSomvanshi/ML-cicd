@@ -36,4 +36,7 @@ jobs:
         -H "Content-Type: application/json" \
         -d '{}'
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
